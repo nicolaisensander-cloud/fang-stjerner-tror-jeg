@@ -1,0 +1,12 @@
+{
+  "name": "fang-stjernen",
+  "version": "1.0.0",
+  "description": "Et simpelt og poleret browser-spil – fang stjernen så mange gange du kan på 30 sekunder",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
